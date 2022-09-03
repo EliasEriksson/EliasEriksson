@@ -1,7 +1,3 @@
-### Hi there 👋
+Fullstack developer at Issuefab.
 
-- 🔭 I’m currently working on my [web dev degree](https://github.com/EliasEriksson/miun)
-- 🌱 I’m currently learning C# with asp.net.
-- 💬 Ask me about anything!
-- 📫 reach me on my [email](mailto:eliaseriksson95@gmail.com)
-
+Working with TypeScript on a daily basis and python for passion projects.
